@@ -1,0 +1,64 @@
+body{
+  background: #333;
+  color:#fff;
+}
+.navbar{
+  border-bottom: 3px solid #008ed6;
+  background: #292b26;
+  opacity: 0.7;
+}
+
+{{{{{{}}}}}}
+
+#home-section{
+  background: url('../img/bg.jpg') no-repeat center top;
+  background-size: cover;
+  min-height: 700px;
+  background-attachment: fixed;
+}
+.dark-overlay{
+  background: rgba(0,0,0,0.7);
+  min-height: 700px;
+}
+#ami{
+  background: #fff;
+  color: #008ed6;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px;
+}
+.card-form{
+  opacity: 0.7;
+}
+.home-inner{
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+@media(max-width: 768px){
+  #home-inner h1{
+    font-size: 36px;
+  }
+}
+
+{{{{{}}}}}
+
+.tumii{
+  color: #333;
+}
+#amii{
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px;
+  font-weight: ;
+}
+
+{{{{{}}}}}
+
+.tumi{
+  background: #008ed6;
+}
+
+{{{{{}}}}}
